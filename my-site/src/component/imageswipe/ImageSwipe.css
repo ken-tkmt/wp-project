@@ -1,0 +1,16 @@
+
+.image-container {
+  height: 300px;
+  margin-left: 150px;
+  animation: image-swipe-animation 2.5s;
+}
+
+@keyframes image-swipe-animation {
+  0% {
+    transform: translateX(200px);
+  }
+  100% {
+    transform: translateX(0)
+  }
+}
+  

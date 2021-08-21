@@ -1,0 +1,37 @@
+.page-container {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.article-title {
+    margin-bottom: 5px;
+}
+
+.title-divider {
+    height: 5px;
+    width: 80%;
+    border-radius: 2px;
+    margin-bottom: 15px;
+    background-color: chocolate;
+}
+
+.code-ref {
+    width: 80%;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+.code-ref-line {
+    width: 80%;
+    margin-left: 20px;
+    border-radius: 3px;
+    background-color: lightgrey;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.url-text {
+    color: blue;
+    text-decoration: underline solid blue;
+}
