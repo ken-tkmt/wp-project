@@ -31,6 +31,10 @@
     margin-bottom: 30px;
 }
 
+.article-text {
+    margin-bottom: 5px;
+}
+
 .article-text:hover {
     color: tomato;
     font-weight: bold;
