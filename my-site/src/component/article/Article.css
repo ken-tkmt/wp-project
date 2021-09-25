@@ -20,6 +20,7 @@
     margin-left: 20px;
     border-radius: 10px;
     background-color: lightgrey;
+    overflow: auto;
 }
 
 .code-ref-line {
@@ -34,4 +35,14 @@
 .url-text {
     color: blue;
     text-decoration: underline solid blue;
+}
+
+.image-sample-container {
+    display: flex;
+}
+
+.image-sample {
+    width: 200px;
+    height: auto;
+    margin-right: 5px;
 }

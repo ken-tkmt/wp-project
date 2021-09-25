@@ -1,10 +1,10 @@
 .header-container {
-    width: 1000px;
+    width: 1100px;
 }
 .header-parts-container {
     display: flex;
     justify-content: space-between;
-    width: 1000px;
+    width: 1100px;
     height: 70px;
 }
 
